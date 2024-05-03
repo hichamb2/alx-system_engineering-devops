@@ -3,12 +3,10 @@
 i=0
 while (( i<=9 ))
 do
+	printf "Best School\n"
 	if ((i==8))
 	then
-		printf "Best School\n"
 		printf "Hi\n"
-	else
-		printf "Best School\n"
 	fi
 	(( i+=1 ))
 done
