@@ -10,7 +10,7 @@ do
 			;;
 		9)
 			echo "$i"
-			printf "bad luck from China\n"
+			printf "bad luck from Japan\n"
 			;;
 		17)
 			echo "$i"
