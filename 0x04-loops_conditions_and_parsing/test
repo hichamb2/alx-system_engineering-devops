@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# This script is displaying "Best School" 10 times
+list="$(cut -d ":" -f2 /etc/passwd)"
+for i in $list
+do
+	echo "$i"
+done
